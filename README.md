@@ -1,11 +1,15 @@
-# Capnogram
-DOI: 10.3233/THC-202198
+# Capnogram Signal Analysis
+These MATLAB files serve as parts of the main code for simulating the results of the following articles:
 
-Source code for article entitled "Automatic Classification of Regular and Irregular Capnogram Segments Using Time- and Frequency-domain Features: A Machine Learning-based Approach"
+https://ieeexplore.ieee.org/document/9682692
 
-Authors: Ismail M. El-Badawy, Om Prakash Singh and Zaid Omar
-DOI: 10.3233/THC-202198
+https://ieeexplore.ieee.org/document/9871051
+
+https://content.iospress.com/articles/technology-and-health-care/thc202198
+
 Corresponding author: Ismail M. El-Badawy
-E-mail: ismailelbadawy@gmail.com
+E-mail: ismailelbadawy@gmail.com, ismailelbadawy@aast.edu
 
 [![View Regular and Irregular capnogram segments features extraction on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/87664-regular-and-irregular-capnogram-segments-features-extraction)
+
+https://www.mathworks.com/matlabcentral/fileexchange/164726-hjorth-parameters
